@@ -1,6 +1,7 @@
+/* eslint-disable react/prop-types */
 import { createContext, useCallback, useContext, useEffect, useReducer } from "react";
 
-const url = "http://localhost:9000";
+const url = "https://worldwise-server.onrender.com" || "http://localhost:9000";
 
 const CitiesContext = createContext();
 
