@@ -1,0 +1,20 @@
+.btn {
+	padding: 0.8rem 1.8rem;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	font-family: inherit;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+}
+.primary {
+	background-color: tomato;
+	color: white;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
+.back {
+	font-weight: 600;
+	/* background: none; */
+	border: 1px solid currentColor;
+}

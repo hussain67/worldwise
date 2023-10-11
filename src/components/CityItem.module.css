@@ -1,0 +1,34 @@
+.cityItem {
+	display: flex;
+	background-color: var(--color-dark--0);
+	margin-bottom: 1.6rem;
+	width: 100%;
+	align-items: center;
+	padding: 1rem 2rem;
+	text-decoration: none;
+	border-left: 2px solid var(--color-brand--2);
+	cursor: pointer;
+	text-decoration: none;
+	color: #fff;
+}
+.emoji {
+	margin-right: 7px;
+	font-size: 2.6rem;
+	line-height: 1;
+}
+.name {
+	margin-right: auto;
+	font-size: 1.7rem;
+	font-weight: 700;
+}
+.deleteBtn {
+	background-color: var(--color-dark--1);
+	height: 2rem;
+	aspect-ratio: 1;
+	font-size: 1.6rem;
+	font-weight: 400;
+	color: #fff;
+	border: none;
+	margin-left: 1rem;
+	cursor: pointer;
+}

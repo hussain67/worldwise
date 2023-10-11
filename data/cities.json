@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Bellver de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-12T10:24:17.000Z",
+      "notes": "",
+      "position": {
+        "lat": "42.391008609205045",
+        "lng": "1.77978515625"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Lantadilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-10T12:06:02.691Z",
+      "notes": "",
+      "position": {
+        "lat": "42.342305278572816",
+        "lng": "-4.262695312500001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Santiago de la Puebla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-10T12:10:53.063Z",
+      "notes": "",
+      "position": {
+        "lat": "40.78054143186033",
+        "lng": "-5.3173828125"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "La Yunta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-10T14:00:37.339Z",
+      "notes": "",
+      "position": {
+        "lat": "40.96330795307353",
+        "lng": "-1.6918945312500002"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "La Celle-Saint-Avant",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-10T14:21:29.238Z",
+      "notes": "",
+      "position": {
+        "lat": "47.025206001585396",
+        "lng": "0.5932617187500001"
+      },
+      "id": 98443211
+    }
+  ]
+}

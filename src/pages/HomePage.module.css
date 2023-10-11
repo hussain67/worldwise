@@ -1,0 +1,26 @@
+.homepage {
+	margin: 2.5rem;
+	padding: 2.5rem;
+	height: calc(100vh - 5rem);
+	background-image: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)), url("bg.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.homepage section {
+	display: flex;
+	height: 85%;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	gap: 2.5rem;
+}
+.homepage h1 {
+	font-size: 4.5rem;
+}
+
+.homepage h2 {
+	width: 85%;
+	color: var(--color-light--1);
+	font-size: 1.9rem;
+}

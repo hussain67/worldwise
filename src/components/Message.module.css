@@ -1,0 +1,10 @@
+.message {
+	display: flex;
+	margin: 2rem auto;
+	align-items: start;
+	font-size: 1.8rem;
+	font-weight: 600;
+}
+.message span {
+	margin-right: 7px;
+}

@@ -1,0 +1,36 @@
+.city {
+	width: 100%;
+	padding: 2rem 3rem;
+	border-radius: 7px;
+	background-color: var(--color-dark--2);
+	overflow-y: auto;
+	margin-bottom: 20px;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+.row h6 {
+	font-size: 1.2rem;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	color: var(--color-light--1);
+}
+.row h3,
+p {
+	font-size: 2rem;
+	display: flex;
+	align-items: center;
+}
+.row span {
+	font-size: 3rem;
+	margin-right: 10px;
+}
+.row p {
+	font-size: 1.6rem;
+}
+.row a {
+	display: block;
+	color: orange;
+	font-size: 2rem;
+}
