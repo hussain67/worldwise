@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 		domain={import.meta.env.VITE_REACT_APP_AUTH_DOMAIN}
 		clientId={import.meta.env.VITE_REACT_APP_AUTH_CLIENT_ID}
 		authorizationParams={{
-			redirect_uri: "http://localhost:5173/loading"
+			redirect_uri: "https://app-worldwise.netlify.app/loading"
 		}}
 	>
 		<React.StrictMode>
